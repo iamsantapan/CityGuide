@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\6daadeae1997b7e7824b6bf174d906a038385f4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_d1eaa9d52a4e13f1c8c0d12e3d8f92baa2933d22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\aa422c0bb55e095ff059a3d0b9b0028d648f49b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_7648efe851441ca5ecb06db61e8031651e61c7e8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\40f05364576d4dc216fbb71a09c3c84d3b9ae3d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61212263555b51e7208e9d09ccf9ca3a935a57bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\f109de5584e59ba151616c8db56e865cce9deea2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e93ce5d43e89142251c1568ce31742e7e26fc069\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\0b03263035e1dd876c9dae2bb0657684357e401a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_59ba4bd9b6dff3a3d39d6bb3979c07c6f4f2ed4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\09da8771f393a9a97ab6e797c0cb685ea922888b\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_905a0522770dd958165dd7deea479eb810f98c8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\f5a14290750a0368e124bbb8c6f967a07eb26c5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_586c8f989fa77be1ed45bf2e56344c042d47ae14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\ea42f37275d43d347eca66ef0c1ef9186cabc3b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_f55dd4554276a5abdcef154cc7373e3321b5eeaa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\07579f5984cb987ebaa7d379d0214e33b54c8428\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d7308f19462f472dd4a4da28994ad78852f2d20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\09da8771f393a9a97ab6e797c0cb685ea922888b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5522408878f303927f2915fac44b5e3e4ed5e544\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\8b48cbb3f3d5d6a00034194ad401ec2b2e68d4db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_9b8ce78df84c152ec8cd6d962cf781b4fd958480.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\743b9cc90e6b7a3bbdb1beb731f1c7bf2e100e09\output\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_6178eade6db85418dbe0a1bdb97a73409d3c3a28\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\4d4af995cb9ac3255d2ae3ecb94a4f306da969f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_bea1ddc74eaf7e4d6045c7c3197ba7f62f77c9df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\c80d360cfcc0ee2177fe3546cea77dcebae931e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_c3b4c4a05a549c5629e0a0feb8694fbd403d631d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\5a6ac36d3e75b6ee3c290391289188aa3dd60b9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3455124fa1079035e8dbbed5185f7d5f56dfa98f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_e8b4d8565b8c23bee238b26b709974263a070d26.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\3d41561242a99260b4b145a2cf9af052a772a64b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92391a0da639d285ac8b6681cb209e1961f59c40\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\7f13982ddd7aaa58f3f0b9399416fed20c10c87d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_e2de0618335edc1d34f3202325a0ded6fc1733c1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\our current project\CT_GUIDE\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_227e00250b6148dae80742f61dcc21dff4a7f61a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\3ee52e03f91806100acd00ad8449d50aadbce2bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_300af447a8bd0c181f129a7324d74b793e7b7e69\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\f458eb580d0eea04ffd13a43ac9c4c0b614dda74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_4014ffeacce00e7307c67dab62135b0fff350016.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\743b9cc90e6b7a3bbdb1beb731f1c7bf2e100e09\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75175dbcdddaf12a088379dedce97140efa70dab\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\6c57ca9f5a7b4d4b6841cd8c393a71224a2db1a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_9501a47398874d35e50048fec9a173e8e1426cc9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\3cbf5a809da2caec0851ca67b7c01c08d157ae75\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46c157a74aee607481e5fc8b33b6d18851498cb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\020e8a181728b66cd643dcf641c8519a56d97089\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_974589268000a3d3fdd9919b9cf484ce45a1ea28.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\27fdad684437ee5d40cb28223a4b998bb277875e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc56bde274807858c4d023c5cef96be92326ccb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\09fbf82fd545a939367c5a2ee5e8c01fea75778b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5cbe40d07ce19621f531784261f8eccf6b561f2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\6daadeae1997b7e7824b6bf174d906a038385f4e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1eaa9d52a4e13f1c8c0d12e3d8f92baa2933d22\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\40f05364576d4dc216fbb71a09c3c84d3b9ae3d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_61212263555b51e7208e9d09ccf9ca3a935a57bf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\aa422c0bb55e095ff059a3d0b9b0028d648f49b8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7648efe851441ca5ecb06db61e8031651e61c7e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\0b03263035e1dd876c9dae2bb0657684357e401a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_59ba4bd9b6dff3a3d39d6bb3979c07c6f4f2ed4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\09da8771f393a9a97ab6e797c0cb685ea922888b\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_905a0522770dd958165dd7deea479eb810f98c8d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\f5a14290750a0368e124bbb8c6f967a07eb26c5b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_586c8f989fa77be1ed45bf2e56344c042d47ae14\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\f109de5584e59ba151616c8db56e865cce9deea2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_e93ce5d43e89142251c1568ce31742e7e26fc069.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\ea42f37275d43d347eca66ef0c1ef9186cabc3b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f55dd4554276a5abdcef154cc7373e3321b5eeaa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\09da8771f393a9a97ab6e797c0cb685ea922888b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_5522408878f303927f2915fac44b5e3e4ed5e544.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\8b48cbb3f3d5d6a00034194ad401ec2b2e68d4db\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b8ce78df84c152ec8cd6d962cf781b4fd958480\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\f458eb580d0eea04ffd13a43ac9c4c0b614dda74\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4014ffeacce00e7307c67dab62135b0fff350016\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\4d4af995cb9ac3255d2ae3ecb94a4f306da969f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bea1ddc74eaf7e4d6045c7c3197ba7f62f77c9df\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\07579f5984cb987ebaa7d379d0214e33b54c8428\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_7d7308f19462f472dd4a4da28994ad78852f2d20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\5a6ac36d3e75b6ee3c290391289188aa3dd60b9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_3455124fa1079035e8dbbed5185f7d5f56dfa98f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_e8b4d8565b8c23bee238b26b709974263a070d26\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\3ee52e03f91806100acd00ad8449d50aadbce2bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_300af447a8bd0c181f129a7324d74b793e7b7e69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\743b9cc90e6b7a3bbdb1beb731f1c7bf2e100e09\output\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_6178eade6db85418dbe0a1bdb97a73409d3c3a28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\743b9cc90e6b7a3bbdb1beb731f1c7bf2e100e09\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_75175dbcdddaf12a088379dedce97140efa70dab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\7f13982ddd7aaa58f3f0b9399416fed20c10c87d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2de0618335edc1d34f3202325a0ded6fc1733c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\6c57ca9f5a7b4d4b6841cd8c393a71224a2db1a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9501a47398874d35e50048fec9a173e8e1426cc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\3d41561242a99260b4b145a2cf9af052a772a64b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_92391a0da639d285ac8b6681cb209e1961f59c40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\3cbf5a809da2caec0851ca67b7c01c08d157ae75\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_46c157a74aee607481e5fc8b33b6d18851498cb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\09fbf82fd545a939367c5a2ee5e8c01fea75778b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_5cbe40d07ce19621f531784261f8eccf6b561f2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\santapan\.android\build-cache\27fdad684437ee5d40cb28223a4b998bb277875e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\pre-dexed\debug\classes_bc56bde274807858c4d023c5cef96be92326ccb9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\020e8a181728b66cd643dcf641c8519a56d97089\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_974589268000a3d3fdd9919b9cf484ce45a1ea28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\santapan\.android\build-cache\c80d360cfcc0ee2177fe3546cea77dcebae931e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c3b4c4a05a549c5629e0a0feb8694fbd403d631d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\our current project\CT_GUIDE\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6c244d84f53274ed37e04b0305773af91965e0b">
+        <dex dex="G:\our current project\CT_GUIDE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_00987424de14281582f54e709e602730d520d891\classes.dex" />
+    </item>
+
+</items>
